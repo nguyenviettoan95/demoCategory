@@ -1,0 +1,6 @@
+.item1:hover ul{
+	display: block;
+}
+.sub-item1, .sub-item2{
+	display: none;
+}
